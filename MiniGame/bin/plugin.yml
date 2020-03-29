@@ -1,0 +1,8 @@
+name: Onigokko Plugin
+main: me.gw3.onigokko.Main
+version: 0.1
+author: gw3
+commands:
+  game:
+    description: game command
+    usage: /game
